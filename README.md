@@ -1,7 +1,7 @@
 # Magical-Python
 
 This repository has 2 jupyter notebooks 'Beautiful python' and 'youtube random play' which contains fun python scripts about which i have written in blog:
-[Apoorv Tyagi](https://apoorvtyagi133.blogspot.com)
+[Apoorv Tyagi](https://apoorvtyagi133.blogspot.com/2019/07/magical-python.html)
 
 Topics:
 
@@ -9,11 +9,13 @@ Topics:
 
 2.Check if a website is down
 
-3.Audio to text convertor(audio file included in repo)
+3.Audio to text convertor
 
-4.Forming a word cloud
+4.Creating a word cloud
 
 5.WhatsApp spammer with GUI
+
+6.Finding Difference B/W 2 similar looking images
 
 
 ###### Please feel free to Pull/Fork/Contribute.

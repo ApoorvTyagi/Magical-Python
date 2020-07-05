@@ -5,17 +5,17 @@ This repository has 2 jupyter notebooks 'Beautiful python' and 'youtube random p
 
 Topics:
 
-1. Playing a random video on youtube(GUI)
+1. Playing a random video on youtube(GUI) (Youtube random play.ipynb)
 
-2. Check if a website is down
+2. Check if a website is down (Beautiful Python.ipynb)
 
-3. Audio to text convertor
+3. Audio to text convertor (Beautiful Python.ipynb)
 
-4. Creating a word cloud
+4. Creating a word cloud (Beautiful Python.ipynb)
 
-5. WhatsApp spammer with GUI
+5. WhatsApp spammer with GUI (Beautiful Python.ipynb)
 
-6. Finding Difference Beetween 2 similar looking images
+6. Finding Difference Beetween 2 similar looking images (Image difference.py)
 
 
 ###### Please feel free to Pull/Fork/Contribute.

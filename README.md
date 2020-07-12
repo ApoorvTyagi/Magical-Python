@@ -16,7 +16,7 @@ Topics Covered:
 
 6. Finding Difference Beetween 2 similar looking images (Image difference.py)
 
-7. Tell Your Location (Locations.py)
+7. Tell Your Location Details (Locations.py)
 
 
 ###### Please feel free to Pull/Fork/Contribute.

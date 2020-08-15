@@ -18,5 +18,7 @@ Topics Covered:
 
 7. Tell Your Location Details (Locations.py)
 
+8. Unfollow everyone on twitter who has not posted anything in last 60 days (Unfollow_Twitter.ipynb)
 
-###### Please feel free to Pull/Fork/Contribute.
+
+###### Please feel free to Fork & Contribute.

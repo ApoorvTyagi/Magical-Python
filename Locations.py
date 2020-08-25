@@ -5,7 +5,7 @@ import requests
 import html2text
 
 def getPublicIP():
-    data = requests.get('http://checkip.dyndns.com/').content
+    data = requests.get('http://checkip.dyndns.com/').content #get IP
     ip=html2text.html2text(data.decode("utf-8"))
     return re.compile(r'Address: (\d+.\d+.\d+.\d+)').search(ip).group(1)
 
@@ -13,6 +13,8 @@ IP = str(getPublicIP())
 
 # Get Location
 url = 'http://ipinfo.io/' + IP + '/json'
+
+#parsing json response
 response = urlopen(url)
 data = json.load(response)
 city = data['city']
